@@ -22,6 +22,7 @@ float point_get_distance(point_t p1, point_t p2){
 }
 
 
+
 // find the distance between points (1, 6) and (9, 8)
 int main(){
     point_t p1 = {1, 6};
